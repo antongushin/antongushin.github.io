@@ -1,5 +1,6 @@
 body {
   background-color: #DCDCDC;
+  font-family: Arial, sans-serif;
 }
 
 header {
@@ -8,23 +9,23 @@ header {
 }
 
 footer {
- border: 4px double black; /* Параметры границы */
- background: #fc3; /* Цвет фона */
- padding: 15px; /* Поля вокруг текста */	
+ border: 4px double black; /* ГЏГ Г°Г Г¬ГҐГІГ°Г» ГЈГ°Г Г­ГЁГ¶Г» */
+ background: #fc3; /* Г–ГўГҐГІ ГґГ®Г­Г  */
+ padding: 15px; /* ГЏГ®Г«Гї ГўГ®ГЄГ°ГіГЈ ГІГҐГЄГ±ГІГ  */	
 }
 h1, h2, h3 {
 text-align: center;	
 }
 
 nav {
-border: 4px double black; /* Параметры границы */
-    background: #fc3; /* Цвет фона */
-    padding: 15px; /* Поля вокруг текста */	
+border: 4px double black; /* ГЏГ Г°Г Г¬ГҐГІГ°Г» ГЈГ°Г Г­ГЁГ¶Г» */
+    background: #fc3; /* Г–ГўГҐГІ ГґГ®Г­Г  */
+    padding: 15px; /* ГЏГ®Г«Гї ГўГ®ГЄГ°ГіГЈ ГІГҐГЄГ±ГІГ  */	
 }
 
 .border  {
-border: 4px double black; /* Параметры границы */
- padding: 10px; /* Поля вокруг текста */	
+border: 4px double black; /* ГЏГ Г°Г Г¬ГҐГІГ°Г» ГЈГ°Г Г­ГЁГ¶Г» */
+ padding: 10px; /* ГЏГ®Г«Гї ГўГ®ГЄГ°ГіГЈ ГІГҐГЄГ±ГІГ  */	
 }
 
 .strike {
