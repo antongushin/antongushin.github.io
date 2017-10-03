@@ -20,17 +20,17 @@ nav {
 .main {
  list-style : none ;
  position : inherit ;
- цвет : #fff ;
+ color : #fff ;
  display : inline-block ;
  }
  
  a {
-  цвет : #fff ;
+  color : #fff ;
   text-decoration : none ;
   padding-left : 15 px ;  
  }
  
  footer {
- фон : # 000 ;
- высота : 50 px ;
+ background : # 000 ;
+ top : 50 px ;
  }
