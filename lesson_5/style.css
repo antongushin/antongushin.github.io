@@ -1,0 +1,46 @@
+body {
+  background-color: #DCDCDC;
+}
+
+header {
+ background-color: #E0FFFF; 
+ 
+}
+
+footer {
+ border: 4px double black; /* Параметры границы */
+ background: #fc3; /* Цвет фона */
+ padding: 15px; /* Поля вокруг текста */	
+}
+h1, h2, h3 {
+text-align: center;	
+}
+
+nav {
+border: 4px double black; /* Параметры границы */
+    background: #fc3; /* Цвет фона */
+    padding: 15px; /* Поля вокруг текста */	
+}
+
+.border  {
+border: 4px double black; /* Параметры границы */
+ padding: 10px; /* Поля вокруг текста */	
+}
+
+.strike {
+text-decoration: line-through;	
+}
+
+.underline {
+text-decoration: underline;	
+font-weight: 600;
+}
+li {
+margin: 10px;	
+}
+
+p {
+width:90%;
+font-size:15px;
+margin:10px;
+}
