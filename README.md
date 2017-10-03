@@ -1,6 +1,6 @@
 # Антон Гущин
 ------------------------------
-h2 Мои домашки:
+##h2 Мои домашки:
 [https://antongushin.github.io/lesson_4] [Модуль 2. Урок № 4.]
 [https://antongushin.github.io/lesson_5] [Модуль 2. Урок № 5.]
 [https://antongushin.github.io/lesson_6] [Модуль 2. Урок № 6.]
