@@ -1,0 +1,36 @@
+header {
+ позиция : фиксированная ;	
+ фон : # 000 ;
+ ширина : 100 % ;
+ высота : 50 px ;
+ top : 0 ;
+ left : 0 ;
+}
+body {
+ верх : 50 px ;
+ позиция : абсолютная ;
+ font-family : Arial , sans-serif ;
+}
+nav {
+ font-size : 21 px ;
+ padding-top : 2 px ;
+ text-align : center ;
+ }
+
+.main {
+ list-style : none ;
+ position : inherit ;
+ цвет : #fff ;
+ display : inline-block ;
+ }
+ 
+ a {
+  цвет : #fff ;
+  text-decoration : none ;
+  padding-left : 15 px ;  
+ }
+ 
+ footer {
+ фон : # 000 ;
+ высота : 50 px ;
+ }
