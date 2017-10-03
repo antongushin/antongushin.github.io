@@ -7,9 +7,9 @@
 
 [Урок 5](https://antongushin.github.io/lesson_5/ "Знакомства с основами CSS") - Знакомства с основами CSS
 
-[Урок 6_1 часть](https://antongushin.github.io/lesson_6/mini kniga/ "Позиционирование в CSS") - Оформление своей мини книги
+Урок 6_1 часть](https://antongushin.github.io/lesson_6/kniga/ "Позиционирование в CSS") - Оформление своей мини книги
 
-[Урок 6_2 часть](https://antongushin.github.io/lesson_6/Центрованный элемент/ "Позиционирование в CSS") - Центрованный элемент
+[Урок 6_2 часть](https://antongushin.github.io/lesson_6/element/ "Позиционирование в CSS") - Центрованный элемент
 
 [Урок 7](https://antongushin.github.io/lesson_7/ "Верстка первого макета") - Верстка первого макета
 
