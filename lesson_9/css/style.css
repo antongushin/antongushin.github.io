@@ -1,0 +1,63 @@
+body {
+font-family: Tahoma, sens-serif;
+color: #333333;    
+}
+.section {
+margin-top: 120px; 
+      } 
+.header {
+line-height: 1.5;
+font-size: 24px;
+margin-bottom: 85px    
+}
+
+.header-2 {
+font-size: 24px;
+   }
+.header span {
+display: block;	
+}
+
+.video {
+left: 0;    
+}
+.form {
+border: 5px solid #2727d9;
+width: 100%; 
+padding-left: 20px;
+padding-right: 20px;
+    }
+.form-header {
+font-size: 20px;
+font-weight: 900;
+margin-bottom: 40px;
+margin-top: 35px;    
+}
+
+.form-control {
+margin-bottom: 11px;
+   }
+.btn-f {
+margin-bottom: 35px;
+background: #3c3cdd;    
+}
+
+.btn-i {
+background: #3c3cdd;
+    }
+
+.row-header {
+ margin-bottom: 80px;   
+}
+
+.row-img {
+padding-bottom: 80px;    
+}
+
+img {
+margin-bottom: 20px;
+}
+
+.col-md-offset-1 {
+border:2px solid #000 ;    
+}
