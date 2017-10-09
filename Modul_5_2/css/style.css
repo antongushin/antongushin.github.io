@@ -1,10 +1,22 @@
 body .container .header .row {
-	font-family: 'Proxima Nova', sans-serif;
+	font-family: 'Proxima Nova Rg', sans-serif;
 }
 .main {
 	background: url(../images/bg-header.jpg) center center no-repeat;
 	background-size: cover;
 }
+@font-face {
+	font-family: 'ProximaNova_bold';
+	src: url('../fonts/subset-ProximaNova-Bold.eot');
+	src: url('../fonts/subset-ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/subset-ProximaNova-Bold.woff2') format('woff2'),
+		url('../fonts/subset-ProximaNova-Bold.woff') format('woff'),
+		url('../fonts/subset-ProximaNova-Bold.ttf') format('truetype'),
+		url('../fonts/subset-ProximaNova-Bold.svg#ProximaNova-Bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
 @font-face {
 	font-family: 'Proxima Nova Rg';
 	src: url('../fonts/subset-ProximaNova-Regular.eot');
@@ -63,6 +75,8 @@ margin-bottom: 10rem;
 .main-header-1 {
 line-height: 1.4;
 margin-bottom: 5rem;
+font-family: 'ProximaNova_bold', sans-serif;	
+font-weight: bold;	
 }
 
 .main-header-2 {
@@ -83,10 +97,14 @@ padding: 3.5rem 2.5rem;
 font-size: 1.5rem;
 }
 .main-button-strong {
-font-size: 1.8rem;
+font-family: 'ProximaNova_bold', sans-serif;
+font-weight: bold;
+font-size: 3rem;
 }
 .main-header-3 {
 font-size: 2rem;
+font-family: 'ProximaNova_bold', sans-serif;	
+font-weight: bold;	
 }
 
 .main-form {
@@ -100,6 +118,11 @@ background-color: #ffffff;
 	font-size: 1.8rem;	
 	margin-bottom: 4rem;
 	}
+.main-form-header strong{
+font-family: 'ProximaNova_bold', sans-serif;
+font-weight: bold;
+}
+
 label {
 position: absolute;	
 display: inline-block;
