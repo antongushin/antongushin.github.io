@@ -31,7 +31,7 @@
 
 [Урок 18_1 часть](https://antongushin.github.io/lesson_18/form/ "Форма регистрации") - Форма регистрации
 
-[Урок 18_2 часть](https://antongushin.github.io/lesson_17/index.html "Табы") - Табы
+[Урок 18_2 часть](https://antongushin.github.io/lesson_18/tab/ "Табы") - Табы
 
 ********************************************
 
