@@ -31,7 +31,7 @@
     <header id="header" class="header">  
         <div class="container">       
             <h1 class="logo">
-                <a class="scrollto" href="#hero">
+                <a class="scrollto" href="#hero" class="parallax-window" data-parallax="scroll">
                     <span class="logo-icon-wrapper"><img class="logo-icon" src="assets/images/logo-icon.svg" alt="icon"></span>
                     <span class="text"><span class="highlight">APP</span>KIT</span></a>
             </h1><!--//logo-->
@@ -82,7 +82,8 @@
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner">
     			
-				<div class="item item-1 active">
+				<div class="item item-1 active" class="parallax-window" data-parallax="scroll" data-image-src="assets/images/hero-1.jpg" data-image-src="assets/images/hero-2.jpg"
+                data-image-src="assets/images/hero-3.jpg">
 					<div class="item-content container">
     					<div class="item-content-inner">
     				        
@@ -94,7 +95,7 @@
 					</div><!--//item-content-->
 				</div><!--//item-->
 				
-				<div class="item item-2">
+				<div class="item item-2" class="parallax-window" data-parallax="scroll" data-image-src="assets/images/hero-2.jpg">
 					<div class="item-content container">
 						<div class="item-content-inner">
     				        
@@ -106,7 +107,7 @@
 					</div>
 				</div><!--//item-->
 				
-				<div class="item item-3">
+				<div class="item item-3" class="parallax-window" data-parallax="scroll" data-image-src="assets/images/hero-3.jpg">
 					<div class="item-content container">
 						<div class="item-content-inner">
     				        
@@ -122,7 +123,7 @@
 		</div><!--//carousel-->
     </div><!--//hero-->
     
-    <div id="about" class="about-section" class="parallax-window" data-parallax="scroll" data-image-src="assets/images/parallax.jpg">
+    <div id="about" class="about-section">
         <div class="container text-center">
             <h2 class="section-title">Why Use AppKit?</h2>
             <p class="intro">Appkit uses modern front-end technologies and is packed with useful components and widgets to speed up your app development</p>
@@ -218,7 +219,7 @@
             </div><!--//item-->
             <div class="item item-reversed center-block">
                 <div class="profile-holder">
-                    <img class="profile-image" class="rellax" data-rellax-speed="7" src="assets/images/profile-4.png" alt="profile">
+                    <img class="profile-image" src="assets/images/profile-4.png" alt="profile">
                 </div>
                 <div class="quote-holder">
                     <blockquote class="quote">
@@ -236,7 +237,7 @@
     
     <div id="features" class="features-section">
         <div class="container text-center">
-            <h2 class="section-title">Discover Features</h2>
+            <h2 class="section-title rellax" data-rellax-speed="5">Discover Features</h2>
             <p class="intro">AppKit comes with an AngularJS version, 4 colour schemes and 100+ components</p>
             
             <div class="tabbed-area row">
@@ -263,16 +264,16 @@
                         <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><img class="img-responsive" class="rellax" data-rellax-speed="7" src="assets/images/feature-1.png" alt="screenshot" ></a>
                     </div>
                     <div role="tabpanel" class="tab-pane fade" id="feature-2">
-                        <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><img class="img-responsive" src="assets/images/feature-2.png" alt="screenshot" ></a>
+                        <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><img class="img-responsive" class="rellax" data-rellax-speed="4" src="assets/images/feature-2.png" alt="screenshot" ></a>
                     </div>
                     <div role="tabpanel" class="tab-pane fade" id="feature-3">
-                        <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><img class="img-responsive" src="assets/images/feature-3.png" alt="screenshot" ></a>
+                        <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><img class="img-responsive" class="rellax" data-rellax-speed="-5" src="assets/images/feature-3.png" alt="screenshot" ></a>
                     </div>
                     <div role="tabpanel" class="tab-pane fade" id="feature-4">
-                        <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><img class="img-responsive" src="assets/images/feature-4.png" alt="screenshot" ></a>
+                        <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><img class="img-responsive" class="rellax" data-rellax-speed="5" src="assets/images/feature-4.png" alt="screenshot" ></a>
                     </div>
                     <div role="tabpanel" class="tab-pane fade" id="feature-5">
-                        <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><img class="img-responsive" src="assets/images/feature-5.png" alt="screenshot" ></a>
+                        <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><img class="img-responsive" class="rellax" data-rellax-speed="3" src="assets/images/feature-5.png" alt="screenshot" ></a>
                     </div>
                     <div role="tabpanel" class="tab-pane fade" id="feature-6">
                         <a href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank"><img class="img-responsive" src="assets/images/feature-6.png" alt="screenshot" ></a>
@@ -435,6 +436,7 @@
     <script type="text/javascript" src="assets/js/main.js"></script> 
      <script type="text/javascript" src="assets/js/parallax.min.js"></script>
      <script type="text/javascript" src="assets/js/rellax.min.js"></script>
+    
      <script>
   // Center all the things!
   var rellax = new Rellax('.rellax', {
@@ -443,4 +445,5 @@
        
 </body>
 </html> 
+
 
