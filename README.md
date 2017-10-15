@@ -37,6 +37,8 @@
 
 [Урок 20](https://antongushin.github.io/lesson_20/ "Видео-фон на сайте") - Видео-фон на сайте
 
+[Урок 21](https://antongushin.github.io/lesson_21/ "Parallax эффект для сайта") - Parallax эффект для сайта
+
 ********************************************
 
 [5 Модуль Практика 1](https://antongushin.github.io/5%20praktica%201/ "Адаптивная верстка шапки") - Адаптивная верстка шапки
