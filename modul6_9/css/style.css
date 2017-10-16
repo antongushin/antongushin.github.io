@@ -887,7 +887,9 @@ font-weight: bold;
   font-family: 'ProximaNova_bold', sans-serif;
   font-weight: bold;
 }
-
+.scheme-block p{
+width: 98%;	
+}
 
 /*---------Всё включено------------*/
 
